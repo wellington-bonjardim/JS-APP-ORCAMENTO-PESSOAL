@@ -26,7 +26,7 @@ Para cadastrar um gasto, o usuário deverá informar o ano, o mês, o dia, o tip
 ![Web consultar_despesas](https://github.com/wellington-bonjardim/wellington-bonjardim-projeto-APP-ORCAMENTO-PESSOAL/blob/master/assets/consultar_despesas.PNG)
 
 # Tecnologias utilizadas
-- HTML / BOOTSTRAP / JAVASCRIPT
+- HTML | BOOTSTRAP | JAVASCRIPT
 
 # Autor
 
